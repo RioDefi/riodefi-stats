@@ -1,4 +1,4 @@
-# Polkadot Telemetry
+# Rio Chain Stats
 
 ## Getting Started
 After cloning the repo, make sure to grab the latest stable version of node and install dependencies before doing anything.
@@ -19,7 +19,7 @@ yarn start:frontend
 
 ### Terminal 3 - Node
 ```
-./target/debug/polkadot --dev --telemetry-url ws://localhost:1024
+./target/debug/riochain --dev --telemetry-url ws://localhost:1024
 ```
 
 ### Run via Docker
