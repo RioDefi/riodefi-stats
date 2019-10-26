@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": "Parity Technologies Ltd. <admin@parity.io>",
   "license": "GPL-3.0",
-  "description": "Polkadot Telemetry frontend",
+  "description": "Rio Blockchain Telemetry frontend",
   "jest": {
     "moduleFileExtensions": [
       "ts",
