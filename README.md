@@ -1,5 +1,9 @@
 # Rio Chain Stats
 
+## Notice
+
+This is a fork from `https://github.com/paritytech/substrate-telemetry`
+
 ## Getting Started
 After cloning the repo, make sure to grab the latest stable version of node and install dependencies before doing anything.
 
